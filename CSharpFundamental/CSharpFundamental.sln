@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimensionArray", "TwoDim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadedMethod", "OverloadedMethod\OverloadedMethod.csproj", "{A4425671-A7BA-44AF-AD95-A2A592A8E41E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOptionalParameters", "MethodOptionalParameters\MethodOptionalParameters.csproj", "{CF6DCBE2-03B2-4226-B170-6B5DD32EDC7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A4425671-A7BA-44AF-AD95-A2A592A8E41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4425671-A7BA-44AF-AD95-A2A592A8E41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4425671-A7BA-44AF-AD95-A2A592A8E41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6DCBE2-03B2-4226-B170-6B5DD32EDC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6DCBE2-03B2-4226-B170-6B5DD32EDC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6DCBE2-03B2-4226-B170-6B5DD32EDC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6DCBE2-03B2-4226-B170-6B5DD32EDC7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
