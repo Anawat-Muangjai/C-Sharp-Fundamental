@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions", "Expressions\Expressions.csproj", "{96F7AEEA-BB27-494C-816B-2F8C6A346D0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParseConversion", "TryParseConversion\TryParseConversion.csproj", "{AE228019-5D18-457B-A792-62795BC71F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{96F7AEEA-BB27-494C-816B-2F8C6A346D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96F7AEEA-BB27-494C-816B-2F8C6A346D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96F7AEEA-BB27-494C-816B-2F8C6A346D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE228019-5D18-457B-A792-62795BC71F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE228019-5D18-457B-A792-62795BC71F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE228019-5D18-457B-A792-62795BC71F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE228019-5D18-457B-A792-62795BC71F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
