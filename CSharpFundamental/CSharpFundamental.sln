@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperator", "TernaryO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{42D00ACB-51AF-4D84-8C59-5389F869F7C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{597C0B46-3B15-42E8-A878-8237CBD05E61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{42D00ACB-51AF-4D84-8C59-5389F869F7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D00ACB-51AF-4D84-8C59-5389F869F7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D00ACB-51AF-4D84-8C59-5389F869F7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597C0B46-3B15-42E8-A878-8237CBD05E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597C0B46-3B15-42E8-A878-8237CBD05E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597C0B46-3B15-42E8-A878-8237CBD05E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597C0B46-3B15-42E8-A878-8237CBD05E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
